@@ -27,7 +27,7 @@ export default function Home() {
           {load ? "Processing" : 'Generate'}
         </button>
       </div>
-      <a className="absolute right-5 bottom-5" target="_blank" href="https://github.com/j-sch23">
+      <a className="absolute right-5 bottom-5" target="_blank" rel="noreferrer" href="https://github.com/j-sch23">
         <svg xmlns="http://www.w3.org/2000/svg"
           fill="white"
           width="24"
